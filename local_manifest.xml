@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/sprout" name="CyanogenMod/android_device_google_sprout" remote="github" revision="cm-11.0" />
+  <project path="vendor/google/sprout" name="varunchitre15/android_vendor_google_sprout" remote="github" revision="cm-11.0" />
+  <project path="kernel/mediatek/sprout" name="CyanogenMod/android_kernel_mediatek_sprout" remote="github" revision="cm-11.0" />
+</manifest>
